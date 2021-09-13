@@ -1,0 +1,1 @@
+alert("curso de programacion MinTic");
